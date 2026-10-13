@@ -1,4 +1,4 @@
-#[Insert Title]
+# [Insert Title]
 ## Links
 - [D2L](https://learn.georgebrown.ca)
 - [AtKlass](https://app.atklass.com)
